@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add PR Summary step to Ultralytics Actions (#7675)
