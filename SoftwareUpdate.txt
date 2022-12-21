@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
