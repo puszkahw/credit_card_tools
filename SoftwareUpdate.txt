@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Replace onnx2tf usage from CLI to Python (#8429)
