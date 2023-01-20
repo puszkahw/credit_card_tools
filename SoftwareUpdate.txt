@@ -1,1 +1,1 @@
-add yolov10
+Fix OBB xywh-angle concatenation bug (#7404)
