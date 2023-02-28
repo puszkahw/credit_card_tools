@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Batch inference fixes (#8854)
