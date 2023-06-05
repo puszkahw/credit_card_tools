@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
