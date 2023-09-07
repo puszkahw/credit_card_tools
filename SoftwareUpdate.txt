@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Allow Annotator PIL.Image inputs (#8397)
