@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Remove JAX constraints in Exporter (#8309)
