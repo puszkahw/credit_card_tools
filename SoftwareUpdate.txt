@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Update fraction arg to employ a random selection (#8234)
