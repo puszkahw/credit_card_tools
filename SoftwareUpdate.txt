@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fix docker.yaml double-quote version bug (#7452)
