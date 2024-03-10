@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+* fix for predicting with batch_size > 1
